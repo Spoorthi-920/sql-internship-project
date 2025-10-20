@@ -19,7 +19,11 @@ The project includes **five main tables**:
 - **Uploaded the dataset** to PostgreSQL using pgAdmin.  
 - **Created tables** for categories, products, stores, sales, and warranty.  
 - **Established relationships** between tables using **primary keys** and **foreign keys** to ensure data integrity.  
-- **Visualized the database schema** using [dbdiagram.io](https://dbdiagram.io/) to generate an **ERD diagram**.  
+- **Visualized the database schema** using [dbdiagram.io](https://dbdiagram.io/) to generate an **ERD diagram**.
+- ## Entity-Relationship Diagram (ERD)
+
+![ERD Diagram](ERD_diagram.png)
+ 
 
 
 ---
@@ -27,7 +31,7 @@ The project includes **five main tables**:
 ## How to Use
 1. **Open pgAdmin** and connect to your PostgreSQL server.  
 2. **Run the SQL script** `01_schema_setup.sql` to create tables and relationships.  
-3. **Optionally**, refer to `ERD_diagram.png` to visualize the database structure.  
+3. **Optionally**, refer to `ERD_diagram.png` to visualize the database structure. 
 
 ---
 
