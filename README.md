@@ -18,7 +18,8 @@ The project includes **five main tables**:
 - **Downloaded the dataset** from Kaggle ([link to dataset](https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset)). 
 - **Uploaded the dataset** to PostgreSQL using pgAdmin.  
 - **Created tables** for categories, products, stores, sales, and warranty.  
-- **Established relationships** between tables using **primary keys** and **foreign keys** to ensure data integrity.  
+- **Established relationships** between tables using **primary keys** and **foreign keys** to ensure data integrity.
+- *(Primary keys uniquely identify records in a table, while foreign keys establish relationships between tables.)* 
 - **Visualized the database schema** using [dbdiagram.io](https://dbdiagram.io/) to generate an **ERD diagram**.
 - ## Entity-Relationship Diagram (ERD)
 
