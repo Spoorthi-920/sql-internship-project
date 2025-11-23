@@ -1,3 +1,6 @@
+-- SQL Project: Apple Retail Sales
+-- Purpose: Key business insights using SQL analytics
+
 ALTER TABLE products
 ADD COLUMN currency VARCHAR(10) DEFAULT 'USD';
 
